@@ -27,3 +27,9 @@ A Telegram mini-app combined with a web casino platform. The app includes real-t
 - WebSockets
 - AJAX
 - i18n
+
+## 📎 Live Demo
+👉 [https://t.me/easyx_gamebot/app?startapp=c6ecd1ae](https://t.me/easyx_gamebot/app?startapp=c6ecd1ae)
+
+## 📫 Contact
+fritch.high@gmail.com
