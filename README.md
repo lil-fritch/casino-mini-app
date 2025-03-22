@@ -13,9 +13,7 @@ A Telegram mini-app combined with a web casino platform. The app includes real-t
 - PostgreSQL as primary database
 
 ## 🖼️ Screenshots
-## 🖼️ Screenshots
-
-<img src="screenshots/homepage.png" alt="Home Page" width="300"/>
+<img src="screenshots/home.png" alt="Home Page" width="300"/>
 
 <img src="screenshots/settings.png" alt="Balance Update" width="300"/>
 
