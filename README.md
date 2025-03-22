@@ -14,8 +14,8 @@ A Telegram mini-app combined with a web casino platform. The app includes real-t
 
 ## 🖼️ Screenshots
 <p align="center">
-  <img src="screenshots/homepage.png" alt="Home Page" width="300"/>
-  <img src="screenshots/balance.png" alt="Balance Update" width="300"/>
+  <img src="screenshots/home.png" alt="Home Page" width="300"/>
+  <img src="screenshots/settings.png" alt="Balance Update" width="300"/>
   <img src="screenshots/admin-panel.png" alt="Balance Update" width="300"/>
 </p>
 
